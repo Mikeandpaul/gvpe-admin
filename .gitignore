@@ -1,0 +1,4 @@
+build
+etc/gvpe/hostkey
+etc/gvpe/hostkeys
+etc/gvpe/pubkey

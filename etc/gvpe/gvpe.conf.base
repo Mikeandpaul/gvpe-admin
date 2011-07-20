@@ -3,11 +3,13 @@
        mtu = 1400       # minimum MTU of all outgoing interfaces on all hosts
        ifname = vpn0    # the local network device name
 
-       node = first     # just a nickname
-       hostname = 10.122.231.229 # the DNS name or IP address of the host
+#       node = first     # just a nickname
+#       hostname = 10.122.231.229 # the DNS name or IP address of the host
 
-       node = second
-       hostname = 10.122.126.80
+#       node = second
+#       hostname = 10.122.126.80
 
-       node = third
-       hostname = 10.120.65.187
+#       node = third
+#       hostname = 10.120.65.187
+
+
